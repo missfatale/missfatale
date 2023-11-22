@@ -1,6 +1,4 @@
-# Hi Miss Fatale
-
-**Hello and Welcome!**
+# Hello and Welcome to Miss Fatale
 
 **My name is Amber aka Miss Fatale, I'm a tech enthusiast from The Netherlands.**
 
