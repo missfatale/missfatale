@@ -2,7 +2,7 @@
 
 **My name is Amber aka Miss Fatale, I'm a tech enthusiast from The Netherlands.**
 
-I am a dedicated IT enthusiast with a strong passion for educating individuals who share the similar interests. My objective is to provide knowledge and guidance to IT professionals and Homelab enthusiasts on a wide range of topics, including DevOps, Software Engineering, Network Engineering, and much more.
+I am a dedicated IT enthusiast with a strong passion for educating individuals who share similar interests. My objective is to provide knowledge and guidance to IT professionals and Homelab enthusiasts on a wide range of topics, including DevOps, Software Engineering, Network Engineering and much more.
 
 ## Join my Community 
 I think the most effective way to gain knowledge about tech is by establishing connections with individuals who share similar interests and working together through collaboration. With this in mind, I have created my own Discord server, serving as a platform where like-minded individuals can connect, learn, and exchange their enthusiasm for tech.
