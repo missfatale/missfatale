@@ -19,7 +19,7 @@ You can access my tutorials, documentation, notes, and configuration files, amon
 - [Videos](https://github.com/missfatale/videos) | My YouTube video documentation-vault.
 
 ## Support
-Creating educational content without charge can be a time-consuming challenge. By making financial contributions, I can dedicate more time and effort towards creating educational materials. My aim is for this GitHub page to serve as a comprehensive knowledge repository for anyone and everyone. Therefore, contributions to this GitHub page are greatly appreciated.
+Creating educational content without charge can be a time-consuming challenge. By making financial contributions, I can dedicate more time and effort towards creating educational materials. My aim for this GitHub page is to serve as a comprehensive knowledge repository for anyone and everyone. Therefore, contributions to this GitHub page are greatly appreciated.
 
 Please note that supporting me is entirely optional. My YouTube videos, resources, and knowledge repositories are accessible to everyone. Of course, you will receive some notable benefits and rewards in return.
 
